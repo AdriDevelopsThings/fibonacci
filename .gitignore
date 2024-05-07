@@ -1,0 +1,12 @@
+/Makefile.in
+/Makefile
+/autom4te.cache
+/configure
+/configure~
+/build-aux
+/config.log
+/aclocal.m4
+/*.o
+/fibonacci
+/config.status
+/.deps

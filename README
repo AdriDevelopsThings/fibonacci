@@ -1,0 +1,6 @@
+A very simple fibonacci sequence implementation.
+
+Usage: ./fibonacci [OPTION]... N
+Get the N-th fibonacci number.
+
+  -n, --no-newline      Don't print a newline after the integer.
